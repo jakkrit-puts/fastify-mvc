@@ -1,6 +1,6 @@
 # fastify-mvc
 
-#### Sturcture Project
+#### Structure Project
 ```
   - src
        |- controllers
